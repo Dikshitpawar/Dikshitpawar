@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Dikshit Pawar
 
-<!--
-**Dikshitpawar/Dikshitpawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Computer Engineering Student | 💻 MERN Stack Developer | 📚 DSA Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🎓 3rd Year Computer Engineering Student
+* 💻 Skilled in MERN Stack Development
+* 📚 Strong understanding of Data Structures & Algorithms
+* ⚡ Passionate about building real-world web applications
+* 🎯 Goal: To become a highly skilled Full Stack Developer
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Java, JavaScript, C, C++
+**Frontend:** React.js, HTML, CSS
+**Backend:** Node.js, Express.js
+**Database:** MongoDB
+**Tools & Tech:** Git, GitHub, Postman, VS Code, REST APIs, Gemini API
+
+---
+
+## 🧠 Core Concepts
+
+* Data Structures & Algorithms
+* Object-Oriented Programming (OOP)
+* Database Management Systems (DBMS)
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Secured 1st Rank in 2nd Year (CGPIT)
+* ⚡ Runner-Up in Fastest Coder Competition
+* 💻 Solved 45+ problems on LeetCode
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Dikshitpawar\&show_icons=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dikshitpawar)
+
+---
+
+## 📫 Connect with Me
+
+* 📧 Email: [pawardikshit1@gmail.com](mailto:pawardikshit1@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/dikshit-pawar-510802313
+* 💻 GitHub: https://github.com/Dikshitpawar
+
+---
+
+⚡ I love turning ideas into real-world applications
